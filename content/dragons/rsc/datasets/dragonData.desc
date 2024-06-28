@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE modelDescription SYSTEM "description_1_0.dtd">
+
+<modelDescription>
+	<ribTag>1</ribTag>
+	<structure name = "wordDataset">	
+		<int name = "version"/>
+		<list name = "word_list">
+			<structure name = "wordStruct">
+				<string name = "wordType"/>
+				<string name = "wordName"/>
+				<stringArray name = "wordHi" />
+				<int name = "wordID"/>
+			</structure>
+		</list>
+	</structure>
+</modelDescription>

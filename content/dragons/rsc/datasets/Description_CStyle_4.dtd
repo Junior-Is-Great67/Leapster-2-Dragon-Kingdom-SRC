@@ -1,0 +1,251 @@
+<!-- Description DTD v4, for DataWrangler C-Style
+     Copyright (c) Leapfrog Enterprises, Inc. 
+-->
+
+<!-- 
+     
+  This DTD is used for C-style Model Description xml files.
+     
+  modelDescription - The DOCTYPE to use for the Description xml file
+  id               - The id for this dataset's RIB entry.  It may
+                     contain either a decimal or hexadecimal number (if
+                     preceded with '0x').
+  formatVersion    - If specified, this value is used in the dataset header.
+                     The format version is a dotted version number, e.g. 2.3
+                     If not specified, then 1.0 is used.
+  majorVersion     - If specified, this number is used in the model's RIB
+                     entry major version.
+                     If not specified, then 1 is used for the RIB entry
+                     major version.
+  minorVersion     - If specified, this number is used in the model's RIB
+                     entry minor version.
+                     If not specified, then 0 is used for the RIB entry
+                     minor version.
+  PRomHeader       - Only specified for PaperROM datasets, defines the
+                     header that the DataStrip-receiving app uses to decode
+					 the intended recipent of the dataset.
+  structure        - Specifies the structure of the model data.
+-->
+
+<!-- PaperROM PRomHeader
+
+  headerFormatVersion - Required for PaperROM, is the 16 bit header ID
+                        0x0100 version 1.0
+
+  productId           - Required for PaperROM, is the 16 bit product ID
+                        FLY     == 0x0001
+						FLY jr. == 0x0002
+
+  appId               - Platform defined Application ID
+
+  NOTE: PaperROM never uses formatVersion, majorVersion, minorVersion in
+        the modelDescription.
+-->     
+      
+<!ELEMENT modelDescription (id, formatVersion?, (majorVersion, minorVersion)?, PRomHeader?, structure) >
+<!ELEMENT PRomHeader (headerFormatVersion, productId, appId) >
+
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT formatVersion (#PCDATA)>
+<!ELEMENT majorVersion (#PCDATA)>
+<!ELEMENT minorVersion (#PCDATA)>
+
+<!ELEMENT headerFormatVersion (#PCDATA)>
+<!ELEMENT productId (#PCDATA)>
+<!ELEMENT appId (#PCDATA)>
+
+<!ELEMENT structure ( structure 
+                    | list 
+                    | stringArray 
+                    
+                    | intArray 
+                    | s32Array 
+                    | u32Array 
+                    | s16Array 
+                    | u16Array 
+                    | s8Array 
+                    | u8Array 
+                    | floatArray
+                    | doubleArray
+                    
+                    | handleArray 
+                    | string 
+                    | richText 
+                    
+                    | int 
+                    | s32
+                    | u32
+                    | s16
+                    | u16
+                    | s8
+                    | u8
+                    | float
+                    | double
+                    
+                    | handle
+                    | intOrHeaderFileDefine)+ >
+                    
+<!ATTLIST structure
+         name ID #REQUIRED
+         comment CDATA #IMPLIED>
+
+<!ELEMENT list ( structure 
+               | stringArray 
+               | intArray 
+               | s32Array 
+               | u32Array 
+               | s16Array 
+               | u16Array 
+               | s8Array 
+               | u8Array 
+               | floatArray
+               | doubleArray
+               | handleArray)>
+<!ATTLIST list 
+         name ID #REQUIRED
+         comment CDATA #IMPLIED>
+
+<!ELEMENT stringArray EMPTY>
+<!ATTLIST stringArray
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT intArray EMPTY>
+<!ATTLIST intArray
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT s32Array EMPTY>
+<!ATTLIST s32Array
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT u32Array EMPTY>
+<!ATTLIST u32Array
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT s16Array EMPTY>
+<!ATTLIST s16Array
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT u16Array EMPTY>
+<!ATTLIST u16Array
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT s8Array EMPTY>
+<!ATTLIST s8Array
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT u8Array EMPTY>
+<!ATTLIST u8Array
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT floatArray EMPTY>
+<!ATTLIST floatArray
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT doubleArray EMPTY>
+<!ATTLIST doubleArray
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT handleArray EMPTY>
+<!ATTLIST handleArray
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT string EMPTY> 
+<!ATTLIST string
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT richText EMPTY> 
+<!ATTLIST richText
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT int EMPTY> 
+<!ATTLIST int
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT s32 EMPTY> 
+<!ATTLIST s32
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT u32 EMPTY> 
+<!ATTLIST u32
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT s16 EMPTY> 
+<!ATTLIST s16
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT u16 EMPTY> 
+<!ATTLIST u16
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT s8 EMPTY> 
+<!ATTLIST s8
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT u8 EMPTY> 
+<!ATTLIST u8
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT float EMPTY> 
+<!ATTLIST float
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT double EMPTY> 
+<!ATTLIST double
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT handle EMPTY> 
+<!ATTLIST handle
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+
+<!ELEMENT intOrHeaderFileDefine EMPTY>
+<!ATTLIST intOrHeaderFileDefine 
+         name ID #REQUIRED
+         valueSource (DIRECT | PROPERTY_LOOKUP | CUSTOM_PROC) "DIRECT"
+         comment CDATA #IMPLIED>
+

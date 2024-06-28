@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog SYSTEM "catalog.dtd">
+<catalog>
+	<grades>
+		<grade>
+			<gradeName>Pre-K</gradeName>
+			<displayName>Pre-K</displayName>
+			<gradeHandle>g_Catalog_Selected_0</gradeHandle>
+			<titles>h_SWF_Catalog_FindingNemo h_SWF_Catalog_Dora h_SWF_Catalog_LetterFactory h_SWF_Catalog_LettersontheLoose h_SWF_Catalog_ZerotheHero h_SWF_Catalog_MrPencil h_SWF_Catalog_Princesses h_SWF_Catalog_Thomas </titles>
+		</grade>
+		<grade>
+			<gradeName>Kindergarten</gradeName>
+			<displayName>K</displayName>
+			<gradeHandle>g_Catalog_Selected_1</gradeHandle>
+			<titles>h_SWF_Catalog_SpongeBob h_SWF_Catalog_FindingNemo h_SWF_Catalog_Dora h_SWF_Catalog_Kindergarten h_SWF_Catalog_LetterFactory h_SWF_Catalog_WordFactory h_SWF_Catalog_LettersontheLoose h_SWF_Catalog_ZerotheHero h_SWF_Catalog_Phonics h_SWF_Catalog_MrPencil h_SWF_Catalog_Princesses  h_SWF_Catalog_Thomas </titles>
+		</grade>
+		<grade>
+			<gradeName>First grade</gradeName>
+			<displayName>1st</displayName>
+			<gradeHandle>g_Catalog_Selected_2</gradeHandle>
+			<titles>h_SWF_Catalog_Spiderman h_SWF_Catalog_SpongeBob h_SWF_Catalog_JBJones h_SWF_Catalog_GrammarRock h_SWF_Catalog_Firstgrade h_SWF_Catalog_WordFactory h_SWF_Catalog_Phonics h_SWF_Catalog_MrPencil h_SWF_Catalog_Madagascar </titles>
+		</grade>
+		<grade>
+			<gradeName>Second grade</gradeName>
+			<displayName>2nd</displayName>
+			<gradeHandle>g_Catalog_Selected_3</gradeHandle>
+			<titles>h_SWF_Catalog_Incredibles h_SWF_Catalog_Spiderman h_SWF_Catalog_SecondGrade h_SWF_Catalog_AmericaRock h_SWF_Catalog_JBJones h_SWF_Catalog_GrammarRock h_SWF_Catalog_MrPencil h_SWF_Catalog_Madagascar </titles>
+		</grade>
+		<grade>
+			<gradeName>Third grade</gradeName>
+			<displayName>3rd</displayName>
+			<gradeHandle>g_Catalog_Selected_4</gradeHandle>
+			<titles>h_SWF_Catalog_Bratz h_SWF_Catalog_Incredibles h_SWF_Catalog_Batman h_SWF_Catalog_AmericaRock h_SWF_Catalog_MrPencil </titles>
+		</grade>
+		<grade>
+			<gradeName>Fourth grade</gradeName>
+			<displayName>4th</displayName>
+			<gradeHandle>g_Catalog_Selected_5</gradeHandle>
+			<titles>h_SWF_Catalog_Batman h_SWF_Catalog_Bratz h_SWF_Catalog_AmericaRock h_SWF_Catalog_MrPencil </titles>
+		</grade>
+		<grade>
+			<gradeName>All</gradeName>
+			<displayName>All</displayName>
+			<gradeHandle>g_Catalog_Selected_6</gradeHandle>
+			<titles>h_SWF_Catalog_FindingNemo h_SWF_Catalog_SpongeBob h_SWF_Catalog_Incredibles h_SWF_Catalog_Spiderman h_SWF_Catalog_Dora h_SWF_Catalog_JBJones h_SWF_Catalog_AmericaRock h_SWF_Catalog_Bratz h_SWF_Catalog_Batman h_SWF_Catalog_GrammarRock h_SWF_Catalog_Kindergarten h_SWF_Catalog_Firstgrade h_SWF_Catalog_SecondGrade h_SWF_Catalog_LetterFactory h_SWF_Catalog_WordFactory h_SWF_Catalog_LettersontheLoose h_SWF_Catalog_MrPencil h_SWF_Catalog_Phonics h_SWF_Catalog_ZerotheHero h_SWF_Catalog_Princesses h_SWF_Catalog_Madagascar h_SWF_Catalog_Thomas </titles>
+		</grade>
+	</grades>
+</catalog>

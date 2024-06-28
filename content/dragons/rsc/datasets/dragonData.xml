@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wordDataset SYSTEM "dragonData.dtd">
+<wordDataset>
+	<version>1</version>
+	<word_list>
+		<wordStruct>
+			<wordType>easyS0</wordType>
+			<wordName>t</wordName>
+			<wordHi>t</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>n</wordName>
+			<wordHi>n</wordHi>
+			<wordID>20</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>r</wordName>
+			<wordHi>r</wordHi>
+			<wordID>30</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>i</wordName>
+			<wordHi>i</wordHi>
+			<wordID>40</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>m</wordName>
+			<wordHi>m</wordHi>
+			<wordID>50</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>d</wordName>
+			<wordHi>d</wordHi>
+			<wordID>60</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>s</wordName>
+			<wordHi>s</wordHi>
+			<wordID>70</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>l</wordName>
+			<wordHi>l</wordHi>
+			<wordID>80</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>e</wordName>
+			<wordHi>e</wordHi>
+			<wordID>90</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>o</wordName>
+			<wordHi>o</wordHi>
+			<wordID>100</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>b</wordName>
+			<wordHi>b</wordHi>
+			<wordID>110</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>f</wordName>
+			<wordHi>f</wordHi>
+			<wordID>120</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>v</wordName>
+			<wordHi>v</wordHi>
+			<wordID>130</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>t</wordName>
+			<wordHi>t</wordHi>
+			<wordID>140</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>n</wordName>
+			<wordHi>n</wordHi>
+			<wordID>150</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>r</wordName>
+			<wordHi>r</wordHi>
+			<wordID>160</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>i</wordName>
+			<wordHi>i</wordHi>
+			<wordID>170</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>m</wordName>
+			<wordHi>m</wordHi>
+			<wordID>180</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>d</wordName>
+			<wordHi>d</wordHi>
+			<wordID>190</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>s</wordName>
+			<wordHi>s</wordHi>
+			<wordID>200</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>l</wordName>
+			<wordHi>l</wordHi>
+			<wordID>210</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>j</wordName>
+			<wordHi>j</wordHi>
+			<wordID>220</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>easyS</wordType>
+			<wordName>e</wordName>
+			<wordHi>e</wordHi>
+			<wordID>230</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS23</wordType>
+			<wordName>k</wordName>
+			<wordHi>k</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>p</wordName>
+			<wordHi>p</wordHi>
+			<wordID>20</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>g</wordName>
+			<wordHi>g</wordHi>
+			<wordID>30</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>h</wordName>
+			<wordHi>h</wordHi>
+			<wordID>40</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>w</wordName>
+			<wordHi>w</wordHi>
+			<wordID>50</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>u</wordName>
+			<wordHi>u</wordHi>
+			<wordID>60</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>j</wordName>
+			<wordHi>j</wordHi>
+			<wordID>70</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>x</wordName>
+			<wordHi>x</wordHi>
+			<wordID>80</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>q</wordName>
+			<wordHi>q</wordHi>
+			<wordID>90</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>z</wordName>
+			<wordHi>z</wordHi>
+			<wordID>100</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>y</wordName>
+			<wordHi>y</wordHi>
+			<wordID>110</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>o</wordName>
+			<wordHi>o</wordHi>
+			<wordID>120</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>u</wordName>
+			<wordHi>u</wordHi>
+			<wordID>130</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>i</wordName>
+			<wordHi>i</wordHi>
+			<wordID>140</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>a</wordName>
+			<wordHi>a</wordHi>
+			<wordID>150</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>hardS</wordType>
+			<wordName>a</wordName>
+			<wordHi>a</wordHi>
+			<wordID>160</wordID>
+		</wordStruct>		
+		<wordStruct>
+			<wordType>CVC40</wordType>
+			<wordName>pan</wordName>
+			<wordHi>p a n</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>cat</wordName>
+			<wordHi>c a t</wordHi>
+			<wordID>50</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>rat</wordName>
+			<wordHi>r a t</wordHi>
+			<wordID>90</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>fan</wordName>
+			<wordHi>f a n</wordHi>
+			<wordID>130</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>bad</wordName>
+			<wordHi>b a d</wordHi>
+			<wordID>170</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>sad</wordName>
+			<wordHi>s a d</wordHi>
+			<wordID>210</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>get</wordName>
+			<wordHi>g e t</wordHi>
+			<wordID>250</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>wet</wordName>
+			<wordHi>w e t</wordHi>
+			<wordID>300</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>ten</wordName>
+			<wordHi>t e n</wordHi>
+			<wordID>340</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>bed</wordName>
+			<wordHi>b e d</wordHi>
+			<wordID>380</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>hen</wordName>
+			<wordHi>h e n</wordHi>
+			<wordID>420</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>yes</wordName>
+			<wordHi>y e s</wordHi>
+			<wordID>460</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>bit</wordName>
+			<wordHi>b i t</wordHi>
+			<wordID>500</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>lid</wordName>
+			<wordHi>l i d</wordHi>
+			<wordID>540</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>wig</wordName>
+			<wordHi>w i g</wordHi>
+			<wordID>580</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>sit</wordName>
+			<wordHi>s i t</wordHi>
+			<wordID>620</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>mop</wordName>
+			<wordHi>m o p</wordHi>
+			<wordID>660</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>fox</wordName>
+			<wordHi>f o x</wordHi>
+			<wordID>700</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>dog</wordName>
+			<wordHi>d o g</wordHi>
+			<wordID>740</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>hog</wordName>
+			<wordHi>h o g</wordHi>
+			<wordID>780</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>job</wordName>
+			<wordHi>j o b</wordHi>
+			<wordID>820</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>mug</wordName>
+			<wordHi>m u g</wordHi>
+			<wordID>860</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>jug</wordName>
+			<wordHi>j u g</wordHi>
+			<wordID>900</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>bus</wordName>
+			<wordHi>b u s</wordHi>
+			<wordID>940</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>fun</wordName>
+			<wordHi>f u n</wordHi>
+			<wordID>980</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>run</wordName>
+			<wordHi>r u n</wordHi>
+			<wordID>1020</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVC</wordType>
+			<wordName>cup</wordName>
+			<wordHi>c u p</wordHi>
+			<wordID>1060</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe67</wordType>
+			<wordName>tape</wordName>
+			<wordHi>t a p e</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>cave</wordName>
+			<wordHi>c a v e</wordHi>
+			<wordID>50</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>safe</wordName>
+			<wordHi>s a f e</wordHi>
+			<wordID>90</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>wake</wordName>
+			<wordHi>w a k e</wordHi>
+			<wordID>130</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>cape</wordName>
+			<wordHi>c a p e</wordHi>
+			<wordID>170</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>lake</wordName>
+			<wordHi>l a k e</wordHi>
+			<wordID>220</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>date</wordName>
+			<wordHi>d a t e</wordHi>
+			<wordID>260</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>base</wordName>
+			<wordHi>b a s e</wordHi>
+			<wordID>300</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>bite</wordName>
+			<wordHi>b i t e</wordHi>
+			<wordID>340</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>wipe</wordName>
+			<wordHi>w i p e</wordHi>
+			<wordID>380</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>dime</wordName>
+			<wordHi>d i m e</wordHi>
+			<wordID>420</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>mine</wordName>
+			<wordHi>m i n e</wordHi>
+			<wordID>460</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>hide</wordName>
+			<wordHi>h i d e</wordHi>
+			<wordID>500</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>ride</wordName>
+			<wordHi>r i d e</wordHi>
+			<wordID>540</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>file</wordName>
+			<wordHi>f i l e</wordHi>
+			<wordID>580</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>pile</wordName>
+			<wordHi>p i l e</wordHi>
+			<wordID>620</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>home</wordName>
+			<wordHi>h o m e</wordHi>
+			<wordID>660</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>code</wordName>
+			<wordHi>c o d e</wordHi>
+			<wordID>700</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>robe</wordName>
+			<wordHi>r o b e</wordHi>
+			<wordID>740</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>hope</wordName>
+			<wordHi>h o p e</wordHi>
+			<wordID>780</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>mole</wordName>
+			<wordHi>m o l e</wordHi>
+			<wordID>820</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>pole</wordName>
+			<wordHi>p o l e</wordHi>
+			<wordID>860</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>bone</wordName>
+			<wordHi>b o n e</wordHi>
+			<wordID>900</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>cube</wordName>
+			<wordHi>c u b e</wordHi>
+			<wordID>940</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>mule</wordName>
+			<wordHi>m u l e</wordHi>
+			<wordID>980</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>mute</wordName>
+			<wordHi>m u t e</wordHi>
+			<wordID>1020</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>CVCe</wordType>
+			<wordName>cute</wordName>
+			<wordHi>c u t e</wordHi>
+			<wordID>1060</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy94</wordType>
+			<wordName>so</wordName>
+			<wordHi>s o</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>he</wordName>
+			<wordHi>h e</wordHi>
+			<wordID>40</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>on</wordName>
+			<wordHi>o n</wordHi>
+			<wordID>70</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>at</wordName>
+			<wordHi>a t</wordHi>
+			<wordID>100</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>say</wordName>
+			<wordHi>s a y</wordHi>
+			<wordID>130</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>yes</wordName>
+			<wordHi>y e s</wordHi>
+			<wordID>170</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>who</wordName>
+			<wordHi>wh o</wordHi>
+			<wordID>210</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>our</wordName>
+			<wordHi>o u r</wordHi>
+			<wordID>240</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>too</wordName>
+			<wordHi>t oo</wordHi>
+			<wordID>280</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>ran</wordName>
+			<wordHi>r a n</wordHi>
+			<wordID>310</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>get</wordName>
+			<wordHi>g e t</wordHi>
+			<wordID>350</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightEasy</wordType>
+			<wordName>no</wordName>
+			<wordHi>n o</wordHi>
+			<wordID>390</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy106</wordType>
+			<wordName>slam</wordName>
+			<wordHi>sl a m</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>sled</wordName>
+			<wordHi>sl e d</wordHi>
+			<wordID>50</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>slip</wordName>
+			<wordHi>sl i p</wordHi>
+			<wordID>90</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>clam</wordName>
+			<wordHi>cl a m</wordHi>
+			<wordID>130</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>club</wordName>
+			<wordHi>cl u b</wordHi>
+			<wordID>170</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>flap</wordName>
+			<wordHi>fl a p</wordHi>
+			<wordID>210</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>flex</wordName>
+			<wordHi>fl e x</wordHi>
+			<wordID>250</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>plug</wordName>
+			<wordHi>pl u g</wordHi>
+			<wordID>290</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>plot</wordName>
+			<wordHi>pl o t</wordHi>
+			<wordID>330</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>trap</wordName>
+			<wordHi>tr a p</wordHi>
+			<wordID>370</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>trim</wordName>
+			<wordHi>tr i m</wordHi>
+			<wordID>410</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>crab</wordName>
+			<wordHi>cr a b</wordHi>
+			<wordID>450</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>crop</wordName>
+			<wordHi>cr o p</wordHi>
+			<wordID>490</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>pest</wordName>
+			<wordHi>p e st</wordHi>
+			<wordID>530</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consEasy</wordType>
+			<wordName>west</wordName>
+			<wordHi>w e st</wordHi>
+			<wordID>570</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal121</wordType>
+			<wordName>mend</wordName>
+			<wordHi>m e nd</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>sand</wordName>
+			<wordHi>s a nd</wordHi>
+			<wordID>50</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>bend</wordName>
+			<wordHi>b e nd</wordHi>
+			<wordID>90</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>pump</wordName>
+			<wordHi>p u mp</wordHi>
+			<wordID>130</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>damp</wordName>
+			<wordHi>d a mp</wordHi>
+			<wordID>170</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>pact</wordName>
+			<wordHi>p a ct</wordHi>
+			<wordID>210</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>left</wordName>
+			<wordHi>l e ft</wordHi>
+			<wordID>250</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>gift</wordName>
+			<wordHi>g i ft</wordHi>
+			<wordID>290</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>soft</wordName>
+			<wordHi>s o ft</wordHi>
+			<wordID>330</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>raft</wordName>
+			<wordHi>r a ft</wordHi>
+			<wordID>370</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>next</wordName>
+			<wordHi>n e x t</wordHi>
+			<wordID>410</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>text</wordName>
+			<wordHi>t e x t</wordHi>
+			<wordID>460</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>last</wordName>
+			<wordHi>l a st</wordHi>
+			<wordID>510</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>best</wordName>
+			<wordHi>b e st</wordHi>
+			<wordID>550</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>consFinal</wordType>
+			<wordName>dust</wordName>
+			<wordHi>d u st</wordHi>
+			<wordID>590</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo136</wordType>
+			<wordName>boat</wordName>
+			<wordHi>b oa t</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>goal</wordName>
+			<wordHi>g oa l</wordHi>
+			<wordID>60</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>toad</wordName>
+			<wordHi>t oa d</wordHi>
+			<wordID>100</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>team</wordName>
+			<wordHi>t ea m</wordHi>
+			<wordID>140</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>bead</wordName>
+			<wordHi>b ea d</wordHi>
+			<wordID>180</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>seat</wordName>
+			<wordHi>s ea t</wordHi>
+			<wordID>220</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>deep</wordName>
+			<wordHi>d ee p</wordHi>
+			<wordID>260</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>keep</wordName>
+			<wordHi>k ee p</wordHi>
+			<wordID>300</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>seed</wordName>
+			<wordHi>s ee d</wordHi>
+			<wordID>340</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>room</wordName>
+			<wordHi>r oo m</wordHi>
+			<wordID>380</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>mood</wordName>
+			<wordHi>m oo d</wordHi>
+			<wordID>420</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>moon</wordName>
+			<wordHi>m oo n</wordHi>
+			<wordID>460</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>bait</wordName>
+			<wordHi>b ai t</wordHi>
+			<wordID>500</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>rain</wordName>
+			<wordHi>r ai n</wordHi>
+			<wordID>540</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCombo</wordType>
+			<wordName>rail</wordName>
+			<wordHi>r ai l</wordHi>
+			<wordID>580</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHard151</wordType>
+			<wordName>new</wordName>
+			<wordHi>n ew</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHard</wordType>
+			<wordName>out</wordName>
+			<wordHi>o u t</wordHi>
+			<wordID>40</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHard</wordType>
+			<wordName>eat</wordName>
+			<wordHi>ea t</wordHi>
+			<wordID>80</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHard</wordType>
+			<wordName>she</wordName>
+			<wordHi>sh e</wordHi>
+			<wordID>110</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHard</wordType>
+			<wordName>now</wordName>
+			<wordHi>n o w</wordHi>
+			<wordID>140</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHard</wordType>
+			<wordName>saw</wordName>
+			<wordHi>s a w</wordHi>
+			<wordID>180</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHard</wordType>
+			<wordName>was</wordName>
+			<wordHi>w a s</wordHi>
+			<wordID>220</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHard</wordType>
+			<wordName>will</wordName>
+			<wordHi>w i ll</wordHi>
+			<wordID>260</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard159</wordType>
+			<wordName>drop</wordName>
+			<wordHi>dr o p</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>trip</wordName>
+			<wordHi>tr i p</wordHi>
+			<wordID>50</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>skip</wordName>
+			<wordHi>sk i p</wordHi>
+			<wordID>100</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>from</wordName>
+			<wordHi>fr o m</wordHi>
+			<wordID>150</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>glad</wordName>
+			<wordHi>gl a d</wordHi>
+			<wordID>200</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>draw</wordName>
+			<wordHi>dr aw</wordHi>
+			<wordID>240</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>spring</wordName>
+			<wordHi>sp r i n g</wordHi>
+			<wordID>280</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>trap</wordName>
+			<wordHi>tr a p</wordHi>
+			<wordID>340</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>snow</wordName>
+			<wordHi>sn o w</wordHi>
+			<wordID>380</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>blow</wordName>
+			<wordHi>bl ow</wordHi>
+			<wordID>420</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>bring</wordName>
+			<wordHi>br i n g</wordHi>
+			<wordID>460</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>play</wordName>
+			<wordHi>pl ay</wordHi>
+			<wordID>510</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>sled</wordName>
+			<wordHi>sl e d</wordHi>
+			<wordID>550</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>print</wordName>
+			<wordHi>pr i n t</wordHi>
+			<wordID>590</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>string</wordName>
+			<wordHi>st r i n g</wordHi>
+			<wordID>640</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>frog</wordName>
+			<wordHi>fr o g</wordHi>
+			<wordID>700</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>flew</wordName>
+			<wordHi>fl e w</wordHi>
+			<wordID>740</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>step</wordName>
+			<wordHi>st e p</wordHi>
+			<wordID>780</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>plant</wordName>
+			<wordHi>pl a n t</wordHi>
+			<wordID>820</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>conHard</wordType>
+			<wordName>stay</wordName>
+			<wordHi>st a y</wordHi>
+			<wordID>870</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword178</wordType>
+			<wordName>blur</wordName>
+			<wordHi>bl ur</wordHi>
+			<wordID>60</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>burn</wordName>
+			<wordHi>b ur n</wordHi>
+			<wordID>100</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>burp</wordName>
+			<wordHi>b ur p</wordHi>
+			<wordID>140</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>burst</wordName>
+			<wordHi>b ur st</wordHi>
+			<wordID>180</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>church</wordName>
+			<wordHi>ch ur ch</wordHi>
+			<wordID>220</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>curb</wordName>
+			<wordHi>c ur b</wordHi>
+			<wordID>260</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>curve</wordName>
+			<wordHi>c ur v e</wordHi>
+			<wordID>300</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>bird</wordName>
+			<wordHi>b ir d</wordHi>
+			<wordID>340</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>circle</wordName>
+			<wordHi>c ir c l e</wordHi>
+			<wordID>380</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>circus</wordName>
+			<wordHi>c ir c u s</wordHi>
+			<wordID>440</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>dirt</wordName>
+			<wordHi>d ir t</wordHi>
+			<wordID>500</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>dirty</wordName>
+			<wordHi>d ir ty</wordHi>
+			<wordID>540</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>first</wordName>
+			<wordHi>f ir st</wordHi>
+			<wordID>580</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>girl</wordName>
+			<wordHi>g ir l</wordHi>
+			<wordID>620</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>shirt</wordName>
+			<wordHi>sh ir t</wordHi>
+			<wordID>660</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>sir</wordName>
+			<wordHi>s ir</wordHi>
+			<wordID>700</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>hurry</wordName>
+			<wordHi>h ur r y</wordHi>
+			<wordID>730</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>hurt</wordName>
+			<wordHi>h ur t</wordHi>
+			<wordID>780</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>nurse</wordName>
+			<wordHi>n ur s e</wordHi>
+			<wordID>820</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>occur</wordName>
+			<wordHi>o cc ur</wordHi>
+			<wordID>860</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>purple</wordName>
+			<wordHi>p ur p l e</wordHi>
+			<wordID>900</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>skirt</wordName>
+			<wordHi>s k ir t</wordHi>
+			<wordID>950</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>stir</wordName>
+			<wordHi>s t ir</wordHi>
+			<wordID>1000</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>swirl</wordName>
+			<wordHi>s w ir l</wordHi>
+			<wordID>1040</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>third</wordName>
+			<wordHi>th ir d</wordHi>
+			<wordID>1090</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>thirst</wordName>
+			<wordHi>th ir st</wordHi>
+			<wordID>1130</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>thirty</wordName>
+			<wordHi>th ir ty</wordHi>
+			<wordID>1180</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>Rword</wordType>
+			<wordName>twirl</wordName>
+			<wordHi>tw ir l</wordHi>
+			<wordID>1220</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB208</wordType>
+			<wordName>groan</wordName>
+			<wordHi>g r oa n</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>float</wordName>
+			<wordHi>f l oa t</wordHi>
+			<wordID>60</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>speak</wordName>
+			<wordHi>s p ea k</wordHi>
+			<wordID>110</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>steam</wordName>
+			<wordHi>s t ea m</wordHi>
+			<wordID>160</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>dream</wordName>
+			<wordHi>dr ea m</wordHi>
+			<wordID>210</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>green</wordName>
+			<wordHi>g r ee n</wordHi>
+			<wordID>260</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>sleep</wordName>
+			<wordHi>s l ee p</wordHi>
+			<wordID>310</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>sweep</wordName>
+			<wordHi>s w ee p</wordHi>
+			<wordID>360</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>groom</wordName>
+			<wordHi>g r oo m</wordHi>
+			<wordID>410</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>school</wordName>
+			<wordHi>sc h oo l</wordHi>
+			<wordID>460</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>tool</wordName>
+			<wordHi>t oo l</wordHi>
+			<wordID>520</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>drool</wordName>
+			<wordHi>dr oo l</wordHi>
+			<wordID>560</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>broom</wordName>
+			<wordHi>br oo m</wordHi>
+			<wordID>600</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>stool</wordName>
+			<wordHi>st oo l</wordHi>
+			<wordID>640</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>train</wordName>
+			<wordHi>tr ai n</wordHi>
+			<wordID>680</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>brain</wordName>
+			<wordHi>br ai n</wordHi>
+			<wordID>720</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>main</wordName>
+			<wordHi>m ai n</wordHi>
+			<wordID>760</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>vowCB</wordType>
+			<wordName>braid</wordName>
+			<wordHi>b r ai d</wordHi>
+			<wordID>800</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder226</wordType>
+			<wordName>four</wordName>
+			<wordHi>f our</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>into</wordName>
+			<wordHi>in t o</wordHi>
+			<wordID>40</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>have</wordName>
+			<wordHi>h a v e</wordHi>
+			<wordID>80</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>that</wordName>
+			<wordHi>th a t</wordHi>
+			<wordID>120</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>they</wordName>
+			<wordHi>th e y</wordHi>
+			<wordID>160</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>want</wordName>
+			<wordHi>w an t</wordHi>
+			<wordID>190</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>what</wordName>
+			<wordHi>wh a t</wordHi>
+			<wordID>240</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>with</wordName>
+			<wordHi>w i th</wordHi>
+			<wordID>280</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>good</wordName>
+			<wordHi>g oo d</wordHi>
+			<wordID>320</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>like</wordName>
+			<wordHi>l i k e</wordHi>
+			<wordID>360</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>this</wordName>
+			<wordHi>th i s</wordHi>
+			<wordID>400</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>soon</wordName>
+			<wordHi>s oo n</wordHi>
+			<wordID>440</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>went</wordName>
+			<wordHi>w e n t</wordHi>
+			<wordID>480</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>sightHarder</wordType>
+			<wordName>must</wordName>
+			<wordHi>m u st</wordHi>
+			<wordID>530</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter240</wordType>
+			<wordName>a</wordName>
+			<wordHi>a</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>b</wordName>
+			<wordHi>b</wordHi>
+			<wordID>20</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>c</wordName>
+			<wordHi>c</wordHi>
+			<wordID>30</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>d</wordName>
+			<wordHi>d</wordHi>
+			<wordID>40</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>e</wordName>
+			<wordHi>e</wordHi>
+			<wordID>50</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>f</wordName>
+			<wordHi>f</wordHi>
+			<wordID>60</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>g</wordName>
+			<wordHi>g</wordHi>
+			<wordID>70</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>h</wordName>
+			<wordHi>h</wordHi>
+			<wordID>80</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>i</wordName>
+			<wordHi>i</wordHi>
+			<wordID>90</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>j</wordName>
+			<wordHi>j</wordHi>
+			<wordID>100</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>k</wordName>
+			<wordHi>k</wordHi>
+			<wordID>110</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>l</wordName>
+			<wordHi>l</wordHi>
+			<wordID>120</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>m</wordName>
+			<wordHi>m</wordHi>
+			<wordID>130</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>n</wordName>
+			<wordHi>n</wordHi>
+			<wordID>140</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>o</wordName>
+			<wordHi>o</wordHi>
+			<wordID>150</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>p</wordName>
+			<wordHi>p</wordHi>
+			<wordID>160</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>q</wordName>
+			<wordHi>q</wordHi>
+			<wordID>170</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>r</wordName>
+			<wordHi>r</wordHi>
+			<wordID>180</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>s</wordName>
+			<wordHi>s</wordHi>
+			<wordID>190</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>t</wordName>
+			<wordHi>t</wordHi>
+			<wordID>200</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>u</wordName>
+			<wordHi>u</wordHi>
+			<wordID>210</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>v</wordName>
+			<wordHi>v</wordHi>
+			<wordID>220</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>w</wordName>
+			<wordHi>w</wordHi>
+			<wordID>230</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>x</wordName>
+			<wordHi>x</wordHi>
+			<wordID>240</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>y</wordName>
+			<wordHi>y</wordHi>
+			<wordID>250</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>z</wordName>
+			<wordHi>z</wordHi>
+			<wordID>270</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>letter</wordType>
+			<wordName>zUK</wordName>
+			<wordHi>zUK</wordHi>
+			<wordID>260</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>shape267</wordType>
+			<wordName>circle</wordName>
+			<wordHi>circle</wordHi>
+			<wordID>5</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>shape</wordType>
+			<wordName>square</wordName>
+			<wordHi>square</wordHi>
+			<wordID>10</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>shape</wordType>
+			<wordName>triangle</wordName>
+			<wordHi>triangle</wordHi>
+			<wordID>20</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>shape</wordType>
+			<wordName>rectangle</wordName>
+			<wordHi>rectangle</wordHi>
+			<wordID>30</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>shape</wordType>
+			<wordName>semicircle</wordName>
+			<wordHi>semicircle</wordHi>
+			<wordID>40</wordID>
+		</wordStruct>
+		<wordStruct>
+			<wordType>shape</wordType>
+			<wordName>diamond</wordName>
+			<wordHi>diamond</wordHi>
+			<wordID>50</wordID>
+		</wordStruct>
+	</word_list>
+</wordDataset>

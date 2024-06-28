@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE modelDescription SYSTEM "description_1_0.dtd">
+<modelDescription>
+    <ribTag>16</ribTag>
+    <structure name = "catalog">
+        <list name = "grades">
+            <structure name = "grade">
+                <string name = "gradeName"/>
+                <string name = "displayName"/>
+                <handle name = "gradeHandle"/>
+                <handleArray name = "titles"/>
+            </structure>
+        </list>
+    </structure>
+</modelDescription>

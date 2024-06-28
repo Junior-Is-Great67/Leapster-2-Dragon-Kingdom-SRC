@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE modelDescription SYSTEM "Description_CStyle_4.dtd">
+
+<modelDescription>
+	<id>0x10000002</id>
+	<structure name = "audio_dataset">
+		<list name = "tables">
+			<structure name = "table">
+				<list name = "ids">
+					<structure name = "id">
+						<int name="idname"/>
+						<list name = "cells">
+							<structure name = "cell">
+								<list name = "entries">
+									<structure name = "entry">
+										<u8 name = "entrytype"/>
+										<handle name = "entryhandle"/>
+									</structure>
+								</list>
+							</structure>
+						</list>
+					</structure>
+				</list>
+			</structure>
+		</list>
+	</structure>
+</modelDescription>

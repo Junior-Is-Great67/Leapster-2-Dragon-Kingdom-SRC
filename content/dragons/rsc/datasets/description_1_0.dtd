@@ -1,0 +1,32 @@
+<!-- Description DTD v1.0, for DataWrangler
+     Copyright (c) 2003 Leapfrog Enterprises, Inc., All Rights Reserved 
+-->
+
+<!ELEMENT modelDescription (ribTag, structure) >
+
+<!ELEMENT ribTag (#PCDATA)>
+
+<!ELEMENT structure (structure | list | stringArray | intArray | handleArray | string | int | handle)+ >
+<!ATTLIST structure name ID #REQUIRED>
+
+<!ELEMENT list (structure | stringArray | intArray | handleArray)>
+<!ATTLIST list name ID #REQUIRED>
+
+<!ELEMENT stringArray EMPTY>
+<!ATTLIST stringArray name ID #REQUIRED>
+
+<!ELEMENT intArray EMPTY>
+<!ATTLIST intArray name ID #REQUIRED>
+
+<!ELEMENT handleArray EMPTY>
+<!ATTLIST handleArray name ID #REQUIRED>
+
+<!ELEMENT string EMPTY> 
+<!ATTLIST string name ID #REQUIRED>
+
+<!ELEMENT int EMPTY> 
+<!ATTLIST int name ID #REQUIRED>
+
+<!ELEMENT handle EMPTY> 
+<!ATTLIST handle name ID #REQUIRED>
+

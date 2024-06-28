@@ -1,0 +1,25 @@
+// Web-Leapster API
+// Copyright 2003-4 by LeapFrog Enterprises, Inc. All rights reserved.
+// Description:	The below functions can be called in any scope when the Leapster.swf is loaded
+//			"LEAPSTER" object is defined as a global variable
+// Platform:		Flash Player 6
+// Actionscript:	1.0
+// Author:		Johnny Ngo
+// Sample: 
+//	LEAPSTER.changeColor("blue");
+//	LEAPSTER.loadGame("myGame.swf");
+//	LEAPSTER.setEnableButton(fButtonA, false);
+//	LEAPSTER.setEnableButton(fButtonB, false);
+//	LEAPSTER.setEnableButton(fButtonPause, false);
+
+
+function loadGame(sFileURL);
+function setEnablePen(bNew);
+function getEnablePen();
+function setEnableKeyMap(bNew);
+function getEnableKeyMap();
+function setEnableButton(fButton, bNew);
+function getEnableButton(button);
+function disableAllButtons();
+function enableAllButtons();
+function changeColor(sColor);
