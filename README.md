@@ -4,6 +4,7 @@
 # To Do:
 - Fix full screening as it broke during decompiling
 - Get rid of unused scripts/debugging swfs
+- Fix Missing Fonts
 
 # Requirements
 - Adobe Flash CS5 or newer
