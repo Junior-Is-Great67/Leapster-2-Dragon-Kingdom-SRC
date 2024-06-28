@@ -11,4 +11,4 @@
 
 ## Reminders
 - You cant open this in Adobe Animate bc they dropped as1/as2 support
-- This could break if it doesnt find all the swfs so in short just dont delete anything
+- Be sure to include the content folder with your builds! It'll break if its not detected!
